@@ -1,0 +1,7 @@
+{
+  "name": "Gesture Particle Flow",
+  "description": "A real-time 3D particle playground controlled by hand gestures using WebGL and Computer Vision.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
